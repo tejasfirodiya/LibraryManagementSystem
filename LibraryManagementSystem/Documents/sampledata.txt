@@ -1,0 +1,28 @@
+Author  - Author.txt (Sample Data)
+Auth1		 Arthur Beiser	Technology
+Auth2		Amish Tripathi	Fiction
+
+Publisher - publisher.txt
+Pub1	Tata McGrawHill	 	02223463		tata@test.com			Famous Publisher
+Pub2 	Westland Publications	3453453 		Westland@gmail.com		From the west
+
+Book - book.txt
+12312-sdfsdf-345345		The Secret of the Nagas		Auth2		Pub2		0	0		
+23423-546756-234233		Concepts Of Modern Physics 		Auth1		Pub1		1	0
+
+Customer - customer.txt
+Cust1		Priyanka	priyanka@test.com		345345345		12 Lane, WestAvenue, Mumbai		0
+Cust2		Arun		arun@test.com			3355656		16 Andheri west Mumbai		0
+
+
+
+Transaction
+1	23423-546756-234233		Cust1		20-03-2022		30-03-2022
+2	12312-sdfsdf-345345		Cust2		30-03-2022
+
+
+
+
+Menu System
+Refer to the image
+
